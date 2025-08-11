@@ -6,7 +6,7 @@ This is a pet project I built whenever I had some free time or got stuck at my d
 
 ## Demo video
 
-![Demo](https://github.com/user-attachments/assets/5fb0b047-d07d-487c-b3b9-d9bd26f1c59c)
+https://github.com/user-attachments/assets/5fb0b047-d07d-487c-b3b9-d9bd26f1c59c
 
 
 ## Hardware 
