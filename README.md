@@ -87,3 +87,8 @@ Note to myself: If somehow in the future you clone this and it doesn't work, che
 - The current source code could use embassy for task management and concurrent (checking for input at a faster rate than the game update rate) tasks but it requires messing with the lifetimes - a topic worth exploring further.
 - Add more game features like levels, obstacles, or power-ups.
 - Optimize stuff if needded
+
+## References
+- [The Rust book](https://doc.rust-lang.org/book/)
+- [The Embedded Rust book](https://docs.rust-embedded.org/book/)
+- [Impl Rust ESP32](https://esp32.implrust.com/)
